@@ -3,7 +3,9 @@ package Entity;
 import java.util.List;
 
 public interface Account {
-
+ /*samdfffdfg
+ fgfg 
+ fgfg*/
 	/**
 	 * @param amount
 	 */
