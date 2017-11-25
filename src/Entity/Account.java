@@ -5,7 +5,9 @@ import java.util.List;
 public interface Account {
  /*samdfffdfg
  fgfg 
- fgfg*/
+ fgfg*
+ yaried
+ samson*/
 	/**
 	 * @param amount
 	 */
